@@ -1,2 +1,2 @@
 # Resume-Category-Prediction
-This is used to calculate the Category of the Resume uploaded 
+This is used to find the Category of the uploaded Resume
